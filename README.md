@@ -1,0 +1,2 @@
+# EzProxyConfiguration
+EzProxy Configuration Manager
